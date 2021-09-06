@@ -1,10 +1,13 @@
 # OVERVIEW ABOUT MY PASSION
 
-- Recon Expert
+Cyber Security is anexpansive field that includes:
+- **Cloud Security:** Cloud-based data storage has become a popular option over the last decade due to its enhanced privacy.
+- **Network Security:** Guard your internal network against outside threats with increased network security. 
+- **Application Security:** 
 
-# AS A CYBER SECUERITY PASSIONATE
+# AS A PASSIONATE CYBER SECURITY ENTHUSIAST
 
-- Extremely curious 
+Extremely curious 
 
 # TOOLS THAT HELPS ME INITIALLY
 
