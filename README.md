@@ -1,14 +1,41 @@
-👋 Hi, I’m @Bongo-Sijora
+# OVERVIEW ABOUT MY PASSION
 
-👀 I’m a Cyber Security Enthusiast and Researcher
+- Recon Expert
 
-🌱 I’m currently preparing for my CEH exams and hopefully will take on OSCP after attaining the creditation
+# AS A CYBER SECUERITY PASSIONATE
 
-💞️ I’m looking to grow, contribute and collaborate on with Security Enthusiats alike & find a number of effective tools to ease my workflow
+- Extremely curious 
 
-📫 Contact me via E Mail: bongo.sijora@scarybyte.co.za
+# TOOLS THAT HELPS ME INITIALLY
 
-<!---
-Bongo-Sijora/Bongo-Sijora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Text
+
+# SKILLS I WOULD LIKE TO HAVE
+
+Text
+
+# I MADE MY ANALYSIS
+
+Text
+
+# WHAT ABOUT BEING ANONYMOUS?
+
+This section helps you stay anonymous on the internet.
+
+## FOLLOW MY LITTLE TUTORIAL
+
+Text Tutorial
+
+# WHY SECURITY MATTERS FOR OUR FUTURE
+
+Text
+
+## FACTS
+
+*Text Fact 1
+*Text Fact 2
+
+## SCENARIOS
+
+*Text Scenario 1
+*Text Scenario 2
